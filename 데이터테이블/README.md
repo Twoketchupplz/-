@@ -5,15 +5,15 @@
 - 먹이를 고양이에게 먹이면 고양이가 레벨업을 한다.
 
 ## 항목 설명 테이블
-<img src = "../imgsrc/데이터테이블/항목.png">
+<img src = "img/항목.png">
 
  - 각 데이터테이블에 필드명과 의미를 설명하는 테이블이다.
 
 ## 퍼즐 데이터테이블
-<img src = "../imgsrc/데이터테이블/퍼즐.png">
+<img src = "img/퍼즐.png">
 
 ## 먹이 데이터테이블
-<img src = "../imgsrc/데이터테이블/먹이.png">
+<img src = "img/먹이.png">
 
 ## 고양이 데이터테이블
-<img src = "../imgsrc/데이터테이블/고양이.png">
+<img src = "img/고양이.png">
