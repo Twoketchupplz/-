@@ -5,7 +5,7 @@
 - 영어 회화 학습 어플리케이션
 - 나의 역할
     - AI Hub에서 제공하는 오픈소스(영어 발음 정량적 평가 기능)을 활용하는 방안으로 `스토리카드` 콘텐츠를 기획했다.
-- [시연영상](https://youtu.be/vx2ixbu-jFY)
+- [시연영상](https://www.youtube.com/watch?v=jfjGASUqI94)
 
 
 ### [자판기 논리 회로 설계](https://github.com/Twoketchupplz/VendingMachineLogicCircuitDesign)
