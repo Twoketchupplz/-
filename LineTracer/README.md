@@ -15,6 +15,41 @@
     2. 장애물 1개 골인지점으로 집어넣기
     3. 나머지 장애물 2개 외곽으로 밀어내기
 
-## 결과물
+## 결과물(기능)
+선을 탐지하고 따라서 이동한다.  
+<img src = "img/image01.png" width="200">
+<img src = "img/image02.png" width="200">
 
-<img src = "img/image03.png" /> <img src = "img/image04.png"/>
+---
+
+격자를 만났을 때 탐지하고 회전한다.  
+<img src = "img/image03.png" width="200">
+<img src = "img/image04.png" width="200">
+
+---
+
+장애물을 탐지하고 회피한다.  
+<img src = "img/image05.png" width="200">
+<img src = "img/image06.png" width="200">
+
+---
+
+장애물을 격자 밖으로 밀어낸다.  
+<img src = "img/image07.png" width="200">
+<img src = "img/image08.png" width="200">
+
+---
+
+장애물을 골대로 밀어 넣는다.  
+<img src = "img/image09.png" width="200">
+<img src = "img/image10.png" width="200">
+
+---
+
+골인지점의 위치를 기억한다.  
+<img src = "img/image11.png" width="200">
+
+---
+
+3가지 장애물을 처리한 후 즉시 멈춘다.  
+<img src = "img/image12.png" width="200">
