@@ -15,7 +15,7 @@
 - 문제 해결 로봇 알고리즘 설계
 
 ## 자기 개발
-### [카드 핸들링 UI 개발](https://github.com/Twoketchupplz/Unity/tree/master/2dDemoGame)
+### [카드 컨트롤 UI 개발](https://github.com/Twoketchupplz/Unity/tree/master/2dDemoGame)
 
 ## 퍼즐 게임 팀 프로젝트
 ### [조각판 UI 제안서](조각판)
