@@ -1,4 +1,10 @@
 # 포트폴리오 차례
+
+## 알고리즘 학습
+### [백준 풀이](https://github.com/Twoketchupplz/Algorithm)
+---
+---
+
 ## 대학 팀 프로젝트(과제)
 
 ### [Taler: 영어 회화 학습 APP](https://github.com/aldrn29/Taler)
