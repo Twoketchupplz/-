@@ -5,7 +5,11 @@
 ---
 ---
 
-## 대학 팀 프로젝트(과제)
+## 프로젝트(과제)
+
+### [ICHI Web Scraper](https://github.com/Twoketchupplz/Web_Scraper)
+- 웹 스크래퍼
+- 연구자 요구사항대로 웹페이지 데이터를 추출
 
 ### [Taler: 영어 회화 학습 APP](https://github.com/aldrn29/Taler)
 - 영어 회화 학습 어플리케이션
